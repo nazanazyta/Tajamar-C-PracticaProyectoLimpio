@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlumnoMCSD\\source\\repos\\PracticaProyectoLimpio\\PracticaProyectoLimpio\\PracticaProyectoLimpio.csproj",
+      "projectUniqueName": "C:\\Users\\AlumnoMCSD\\Repos\\Tajamar-C-PracticaProyectoLimpio\\PracticaProyectoLimpio\\PracticaProyectoLimpio.csproj",
       "projectName": "PracticaProyectoLimpio",
-      "projectPath": "C:\\Users\\AlumnoMCSD\\source\\repos\\PracticaProyectoLimpio\\PracticaProyectoLimpio\\PracticaProyectoLimpio.csproj",
+      "projectPath": "C:\\Users\\AlumnoMCSD\\Repos\\Tajamar-C-PracticaProyectoLimpio\\PracticaProyectoLimpio\\PracticaProyectoLimpio.csproj",
       "packagesPath": "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlumnoMCSD\\source\\repos\\PracticaProyectoLimpio\\PracticaProyectoLimpio\\obj\\",
+      "outputPath": "C:\\Users\\AlumnoMCSD\\Repos\\Tajamar-C-PracticaProyectoLimpio\\PracticaProyectoLimpio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
